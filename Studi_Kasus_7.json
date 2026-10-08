@@ -1,0 +1,26 @@
+[
+    {
+        "kode": "B001",
+        "nama": "Gula Pasir 1kg",
+        "harga": 16000,
+        "stok": 50
+    },
+    {
+        "kode": "B002",
+        "nama": "Minyak Goreng 2L",
+        "harga": 35000,
+        "stok": 20
+    },
+    {
+        "kode": "B003",
+        "nama": "Beras 5kg",
+        "harga": 65000,
+        "stok": 30
+    },
+    {
+        "kode": "B004",
+        "nama": "Telur Ayam 1kg",
+        "harga": 28000,
+        "stok": 25
+    }
+]
