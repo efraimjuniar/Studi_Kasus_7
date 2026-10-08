@@ -28,6 +28,18 @@ Setiap barang disimpan sebagai object di dalam array JSON:
         "nama": "Gula Pasir 1kg",
         "harga": 16000,
         "stok": 50
+    },
+    {
+        "kode": "B002",
+        "nama": "Minyak Goreng 2L",
+        "harga": 35000,
+        "stok": 20
+    },
+    {
+        "kode": "B003",
+        "nama": "Beras 5kg",
+        "harga": 65000,
+        "stok": 30
     }
 ]
 ```
@@ -40,6 +52,10 @@ Jalankan:
 ```
 python Studi_Kasus_7.py
 ```
+---------------------------------------------
+### Contoh Output
+<img width="159" height="269" alt="image" src="https://github.com/user-attachments/assets/925897b8-e022-4755-a057-7b4bc323257b" />
+
 ---------------------------------------------
 ### Cara Kerja
 * ```baca_data()``` membaca isi file JSON. Kalau file belum ada atau kosong, hasilnya list kosong.
